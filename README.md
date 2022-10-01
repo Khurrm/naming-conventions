@@ -15,3 +15,5 @@ Some examples are below:
 | Python                  | Snake Case  [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html#316-naming) |
 
 **Note**: There is also another notation (Hungarian Notation) that is seldomly used. e.g ArrAllOptions (It describes the variable type/ purpose at the prefix, followed by the variable’s functionality descriptor).
+
+Adding more info. 
