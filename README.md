@@ -19,12 +19,13 @@ Below is a small table for the most common varibale naming conventions out there
 - Train Case example is the case of HTTP Header Case. 
 
 > Convention for Variables (Non Constants) - Examples: 
->| Programming Language    | Convention for variables - Non Constants                                                            |
->| ----------------------- | ----------------------------------------------------------------------------------------------------| 
+>| Programming Language    | Convention for variables - Non Constants                                                             |
+>| ----------------------- | -----------------------------------------------------------------------------------------------------| 
 >| Java                    | Pascal Case                                                                                          |
 >| Kotlin                  | Pascal Case                                                                                          |
 >| Javascript              | Pascal Case                                                                                          |
 >| Python                  | Snake Case  [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html#316-naming) |
+>| Rust                    |                                                                                                      |
                           
 > Convention for Variables (Constants) - Examples: 
 >| Programming Language    | Convention for variables - Non Constants                                                             |
