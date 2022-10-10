@@ -31,9 +31,10 @@ Below is a small table for the most common varibale naming conventions out there
 >| Programming Language    | Convention for variables - Constants                                                                 |
 >| ----------------------- | -----------------------------------------------------------------------------------------------------| 
 >| Java                    | All Capitalized and Underscores in Between e.g VARIABLE_ONE                                          |
->| Kotlin                  | No official Docu found but it seems - all Capitalized and underscores between words is the norm      |
+>| Kotlin                  | No official Docu found but all Capitalized and underscores between words is the norm      |
 >| Javascript              |                                                                                                      |
 >| Python                  |                                                                                                      |
 
 ## Official Links
-**For Java**:[Link](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
+1. [**Java Official**](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
+2. [**Google Python Style Guide**](https://google.github.io/styleguide/pyguide.html#316-naming)
